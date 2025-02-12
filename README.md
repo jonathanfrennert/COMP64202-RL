@@ -10,9 +10,9 @@ This course explores how agents learn to make decisions through interaction with
 
 ## Lab sessions
 
-|  **COMP64202**  | **Lab Session**                          | **Lab Link** |
-|--------------------------|-----------------------------------------|----------------------|
-|     Feb 12, 2025            | Markov Decision Processes                                    | [Lab1](https://github.com/mingfeisun/COMP64202-RL/tree/master/Labs/Lab1-MDP) |
-| Feb 26, 2025                | Function Approximation                               | [Lab2](https://github.com/mingfeisun/COMP64202-RL/tree/master/Labs/Lab2-FA) |
-| Mar 19, 2025                | Policy Gradients                               | [Lab3](https://github.com/mingfeisun/COMP64202-RL/tree/master/Labs/Lab3-PG) |
-| Apr 2, 2025                | POMDP and Multi-Agent RL                               | [Lab4](https://github.com/mingfeisun/COMP64202-RL/tree/master/Labs/Lab4-POMDP-MARL) |
+|  **COMP64202**  | **Lab Session**                          | **Lab Link** | **Location** | 
+|--------------------------|-----------------------------------------|----------------------|---------------------|
+|     Feb 12, 2025            | Markov Decision Processes                                    | [Lab1](https://github.com/mingfeisun/COMP64202-RL/tree/master/Labs/Lab1-MDP) | Kilburn_2.25 (A+B) |
+| Feb 26, 2025                | Function Approximation                               | [Lab2](https://github.com/mingfeisun/COMP64202-RL/tree/master/Labs/Lab2-FA) | Kilburn_2.25 (A+B) |
+| Mar 19, 2025                | Policy Gradients                               | [Lab3](https://github.com/mingfeisun/COMP64202-RL/tree/master/Labs/Lab3-PG) | Kilburn_2.25 (A+B) |
+| Apr 2, 2025                | POMDP and Multi-Agent RL                               | [Lab4](https://github.com/mingfeisun/COMP64202-RL/tree/master/Labs/Lab4-POMDP-MARL) | Kilburn_2.25 (A+B) |
