@@ -1,6 +1,8 @@
 # Lab 1 Markov Decision Processes
 
-Outline:
+Check out the pdf in this folder to get started. 
+
+Outline of this lab:
 
 #### 1. SIMPLE MDP
 - Based on problem 1 in this [Stanford Course](http://web.stanford.edu/class/cs234/assignment1/assignment1.pdf)
