@@ -6,8 +6,8 @@ Or you can run the Jupyter Notebooks directly on [Google Colab](https://colab.re
 
 |  **COMP64202 (X-week)**  | **Lab Session**                          | **Google Colab Link** |
 |--------------------------|-----------------------------------------|----------------------|
-| **Date**                | MARL                                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mingfeisun/COMP64202-RL/blob/master/Labs/Lab4_MARL.ipynb) |
-| **Date**                | POMDP                                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mingfeisun/COMP64202-RL/blob/master/Labs/Lab5_POMDP.ipynb) |
+| **Date**                | MARL                                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mingfeisun/COMP64202-RL/blob/master/Labs/Lab4-POMDP-MARL/MARL.ipynb) |
+| **Date**                | POMDP                                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mingfeisun/COMP64202-RL/blob/master/Labs/Lab4-POMDP-MARL/POMDP.ipynb) |
 
 If you want to save changes to the Notebook, you need to save them before quitting. According to [this link](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=Rmai0dD30XzL):
 
